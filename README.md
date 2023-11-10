@@ -1,6 +1,11 @@
 # Hardwired - Dark Neon Theme Pack
 
-## Set of four high contrast monochromatic dark themes.
+Set of four high contrast monochromatic dark vscode themes.
+
+Feel free to follow my work on [Github](https://github.com/thwilson3) where I may or may not be making more themes.
+
+Thanks for checking these out!
+
 * ## Arctic Blue
 !["Arctic Blue Screenshot"](./assets/hardwired-arctic.png)
 
