@@ -1,0 +1,37 @@
+{
+  "name": "hardwired-color-theme",
+  "publisher": "thwilson3",
+  "displayName": "Hardwired: Dark Neon Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hardwired - Charged Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hardwired-charged-pink.json"
+      },
+      {
+        "label": "Hardwired - Deep Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hardwired-deep-purple.json"
+      },
+      {
+        "label": "Hardwired - Arctic Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hardwired-arctic-blue.json"
+      },
+      {
+        "label": "Hardwired - Electric Lime",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hardwired-electric-lime.json"
+      }
+    ]
+  }
+}
