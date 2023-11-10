@@ -33,5 +33,9 @@
         "path": "./themes/hardwired-electric-lime.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thwilson3/hardwired-vscode-theme"
   }
 }
