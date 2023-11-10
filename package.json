@@ -2,6 +2,7 @@
   "name": "hardwired-color-theme",
   "publisher": "thwilson3",
   "displayName": "Hardwired: Dark Neon Theme",
+  "icon": "./assets/icon.jpeg",
   "description": "",
   "version": "0.0.1",
   "engines": {
